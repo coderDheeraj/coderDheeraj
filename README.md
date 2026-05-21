@@ -77,9 +77,11 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderDheeraj&show_icons=true&theme=tokyonight)
+## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderDheeraj&layout=compact&theme=tokyonight)
+![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderDheeraj&show_icons=true&theme=tokyonight&border_radius=10)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderDheeraj&layout=compact&theme=tokyonight&border_radius=10)
 
 ---
 
@@ -92,4 +94,4 @@
 
 ## 💡 Quote
 
-> "I may not be there yet, but every line of code brings me closer"
+> "Not in one day. Not with one step. But one day, I’ll become unstoppable"
