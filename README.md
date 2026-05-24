@@ -74,16 +74,18 @@ https://t.me/httpstmeRUgRBrTdTcdjN2U1
 
 ## GitHub Statistics
 
+
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderDheeraj&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=coderDheeraj&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderDheeraj&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coderDheeraj&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderDheeraj&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderDheeraj&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
