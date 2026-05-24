@@ -1,95 +1,103 @@
-# Hi, I'm Dheeraj
+<h1 align="center">Hi, I'm Dheeraj</h1>
 
-### MCA AI & Data Science Student | Aspiring ML Engineer | Data Analytics Enthusiast
+<h3 align="center">
+MCA AI & Data Science Student | Aspiring ML Engineer | Data Analytics Enthusiast
+</h3>
 
----
-
-##  About Me
-
-- 🎓 Pursuing MCA with AI & Data Science specialization
-- 💻 Passionate about Machine Learning, Data Analytics, and Web Development
-- 📊 Skilled in Excel, Power BI, SQL, Python, HTML, CSS, JavaScript
-- 🤖 Interested in AI/ML Projects and Dashboard Development
-- 🌱 Currently learning Machine Learning and Advanced Data Analytics
+<p align="center">
+Passionate about building AI/ML projects, data dashboards, and modern web applications.
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+- Pursuing MCA with AI & Data Science specialization
+- Interested in Machine Learning, Data Analytics, and AI Projects
+- Skilled in Python, SQL, Power BI, Excel, and Data Visualization
+- Experienced in Web Development using HTML, CSS, JavaScript, and PHP
+- Currently learning:
+  - Machine Learning
+  - Data Analytics
+  - Scikit-Learn
+  - Model Building
+
+---
+
+## Tech Stack
 
 ### Languages
-- Python
-- JavaScript
-- Java
-- C++
-- SQL
+Python • JavaScript • Java • C++ • SQL
 
 ### Web Development
-- HTML
-- CSS
-- JavaScript
-- PHP
+HTML • CSS • JavaScript • PHP
 
 ### Data Analytics & ML
-- Power BI
-- Excel
-- Pandas
-- NumPy
-- Matplotlib
+Power BI • Excel • Pandas • NumPy • Matplotlib • Scikit-Learn
 
 ### Database
-- MySQL
+MySQL
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+Git • GitHub • VS Code • Jupyter Notebook
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
-### 🎵 Spotify Music Analytics Dashboard
-- Interactive Excel dashboard using Pivot Tables, Charts, KPIs, and Power Query
-- Provides insights into music trends and popularity analysis
+### Spotify Music Analytics Dashboard
+Interactive Excel dashboard using Pivot Tables, Charts, KPIs, and Power Query to analyze music trends and popularity.
 
-🔗 Repository:
-[Spotify-Music-Analytics](https://github.com/coderDheeraj/Spotify-Music-Analytics)
-
----
-
-### 🎬 Netflix Analysis with Power BI
-- Power BI dashboard analyzing Netflix dataset
-- Includes genre analysis, ratings, trends, and visual insights
-
-🔗 Repository:
-[NetflixAnalysis_with_PowerBI](https://github.com/coderDheeraj/NetflixAnalysis_with_PowerBI)
+Repository:
+https://github.com/coderDheeraj/Spotify-Music-Analytics
 
 ---
 
-### 🤖 Telegram Tech News Bot
-- Python bot that automatically sends latest tech news to Telegram channels
+### Netflix Analysis with Power BI
+Power BI dashboard for Netflix dataset analysis including genres, ratings, release trends, and visual insights.
 
-🔗 Repository:
-[telegram_tech_news_bot](https://github.com/coderDheeraj/telegram_tech_news_bot)
+Repository:
+https://github.com/coderDheeraj/NetflixAnalysis_with_PowerBI
 
 ---
 
-## 📈 GitHub Stats
+### Telegram Tech News Bot
+Python-based Telegram bot that automatically sends latest technology news updates to Telegram channels.
+
+Repository:
+https://github.com/coderDheeraj/telegram_tech_news_bot
+
+Telegram Channel:
+https://t.me/httpstmeRUgRBrTdTcdjN2U1
+
+---
+
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderDheeraj&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coderDheeraj&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderDheeraj&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- GitHub: https://github.com/coderDheeraj
-- LinkedIn: https://www.linkedin.com/in/dheeraj-jangid-b24178340/
+GitHub:
+https://github.com/coderDheeraj
+
+LinkedIn:
+https://www.linkedin.com/in/dheeraj-jangid-b24178340/
 
 ---
 
-## 💡 Quote
+## Motto
 
-> "Not in one day. Not with one step. But one day, I’ll become unstoppable"
+> "Not in one day. Not with one step. But one day, I’ll become unstoppable."
