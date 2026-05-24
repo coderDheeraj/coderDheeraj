@@ -79,13 +79,6 @@ https://t.me/httpstmeRUgRBrTdTcdjN2U1
   <img src="https://streak-stats.demolab.com?user=coderDheeraj&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderDheeraj&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderDheeraj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
 ---
 
 ## Connect With Me
